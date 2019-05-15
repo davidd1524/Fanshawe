@@ -38,6 +38,29 @@ legend {
 	    color: #ed1c09;
 	    border-color: #ed1c09;
 }
+
+/* descendant selector */
+form p {
+	font-style:italic;
+}
+
+form legend {
+	color:Pink;
+}
+
+/* child selector */
+
+fieldset > p {
+	color:yellow;
+}
+
+/* sibling selector */
+
+form~legend {
+	
+	
+
+/* adjacent selector */	
 	
 *,
 
