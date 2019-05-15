@@ -1,1 +1,11 @@
 Place to keep assignment tasks
+
+- Added two descendant selectors to your last assignment.  This will include adding the selectors to your CSS file and may include changes to your HTML file if two unique descendants are not currently available. 
+
+- Added two child selectors to your last assignment.  
+
+- Added one sibling selector to your last assignment
+
+- Added an adjacent sibling selector to your last assignment.
+
+-
